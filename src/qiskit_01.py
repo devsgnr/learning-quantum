@@ -9,7 +9,7 @@ circ.cx(0, 1)
 circ.measure([0, 1], [0, 1])
 compiled_circ = transpile(circ, simulator)
 
-job = simulator.run(compiled_circ)
+job = simulator.run(compiled_circ, shots=1024)
 results = job.result()
 counts = results.get_counts()
 
