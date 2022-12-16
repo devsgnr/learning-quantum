@@ -3,6 +3,7 @@
 List of lessons I have covered:
 - Basic Quantum Circuits
 - Superposition & Entangling States
+- Parameterized Quantum Circuits
 
 Currently
-- Parameterized Quantum Circuits
+- Data Encoding
