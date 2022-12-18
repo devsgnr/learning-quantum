@@ -1,4 +1,3 @@
-# %%
 from qiskit import QuantumCircuit, transpile
 from qiskit.circuit.library import NLocal
 from qiskit.circuit import ParameterVector
@@ -31,6 +30,4 @@ nlocal_circ = NLocal(
 )
 
 # Draw NLocal Circuit
-nlocal_circ.draw()
-
-# %%
+nlocal_circ.decompose().draw()
