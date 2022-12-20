@@ -6,6 +6,22 @@ List of lessons I have covered:
 - Superposition & Entangling States
 - Parameterized Quantum Circuits
 - Data Encoding
+- Training Parameterized Quantum Circuits
 
 Currently
-- Training Parameterized Quantum Circuits
+- Training Parameterized Quantum Circuits (In Practice)
+
+### __Get Started__
+To get started with the source and notebooks, follow the following steps
+1. After cloning this repository; create a virtual environment using Python's `venv` and doing so activate the enivornment using; 
+   ```bash
+   source ./env_name/bin/activate
+   ```
+   (this is for MacOS & Linux)
+
+2. Install all the neccesary pip packages from the `requirements.txt` file using;
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+The Jupyter Notebook(s) should detect your kernel and you can run the cells within the notebook(s) and see the ouputs. (I'm using VS Code)
