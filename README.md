@@ -14,15 +14,16 @@ Currently
 ### __Get Started__
 To get started with the source and notebooks, follow the following steps
 1. After cloning this repository; create a virtual environment using Python's `venv` and doing so activate the enivornment using; 
+   On MacOS & Unix, run:
    ```bash
    source ./<env_name>/bin/activate
    ```
-   (for MacOS & Unix)
-
+   
+   On Windows, run:
    ```bash
    <env_name>\bin\activate.bat
    ```
-   (for Windows)
+   
 
 2. Install all the neccesary pip packages from the `requirements.txt` file using;
    ```bash
