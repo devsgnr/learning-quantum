@@ -13,7 +13,7 @@ Currently
 
 ### __Get Started__
 To get started with the source and notebooks, follow the following steps
-1. After cloning this repository; create a virtual environment using Python's `venv` and doing so activate the enivornment using; 
+1. After cloning this repository; create a virtual environment using Python's `venv` after doing so, activate the enivornment; 
    
    On MacOS & Unix, run:
    ```bash
