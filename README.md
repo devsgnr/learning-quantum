@@ -7,9 +7,12 @@ List of lessons I have covered:
 - Parameterized Quantum Circuits
 - Data Encoding
 - Training Parameterized Quantum Circuits
+- Training Parameterized Quantum Circuits (In Practice)
+- Quantum Machine Learning
+   - Variational Classification (VQC)
 
 Currently
-- Training Parameterized Quantum Circuits (In Practice)
+- Quantum Feature Maps & Kernels
 
 ### __Get Started__
 To get started with the source and notebooks, follow the following steps
